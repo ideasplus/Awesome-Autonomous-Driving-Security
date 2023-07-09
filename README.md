@@ -1,5 +1,5 @@
 # Awesome-Autonomous-Driving-Security
-An awesome &amp; curated list of autonomous driving security papers, especially including both (physically realizable) attack and defense in the context of adversarial machine learning.
+An awesome &amp; curated list of autonomous driving security papers, including both (physically realizable) attack and defense, especially in the context of adversarial machine learning.
 
 The style is referenced from [Awesome-Binary-Similarity](https://github.com/SystemSecurityStorm/Awesome-Binary-Similarity).
 
@@ -33,6 +33,7 @@ The style is referenced from [Awesome-Binary-Similarity](https://github.com/Syst
 |Fooling LiDAR Perception via Adversarial Trajectory Perturbation|ICCV|2021|[link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Fooling_LiDAR_Perception_via_Adversarial_Trajectory_Perturbation_ICCV_2021_paper.html)|[link](https://ai4ce.github.io/FLAT/)|[link](https://github.com/ai4ce/FLAT)|Perception|
 |Object Removal Attacks on LiDAR-based 3D Object Detectors|AutoSec|2021|[link](https://arxiv.org/abs/2102.03722)|||Perception|
 |Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles|TIFS|2021|[link](https://engineering.purdue.edu/~lusu/papers/TIFS2021.pdf)|||Perception|
+|GhostImage: Remote Perception Domain Attacks against Camera-based Image Classification Systems|RAID|2020|[link](https://www.usenix.org/conference/raid2020/presentation/man)||[link](https://github.com/Harry1993/GhostImage)|Perception|
 |Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks|CCS|2020|[link](https://dl.acm.org/doi/10.1145/3372297.3423359)|[link](https://www.nassiben.com/phantoms)||Perception|
 |Physically Realizable Adversarial Examples for LiDAR Object Detection|CVPR|2020|[link](https://openaccess.thecvf.com/content_CVPR_2020/html/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.html)|||Perception|
 |Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing|USENIX|2020|[link](https://www.usenix.org/conference/usenixsecurity20/presentation/shen)|[link](https://sites.google.com/view/cav-sec/fusionripper)||Localization|
@@ -55,5 +56,5 @@ The style is referenced from [Awesome-Binary-Similarity](https://github.com/Syst
 |Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing|ESORICS|2021|[link](https://soteris.github.io/publication/hau-2021-shadowcatcher/hau_esorics21.pdf)|[link](https://sites.google.com/view/shadow-catcher)||LiDAR spoofing|
 |“Seeing is not Always Believing”: Detecting Perception Error Attacks Against Autonomous Vehicles|TDSC|2021|[link](https://winser.ece.vt.edu/wp-content/uploads/2021/05/perception_error_attacks_TDSC_smaller_file.pdf)|||LiDAR spoofing/saturation、camera blinding、<br/>sensor malfunctions|
 |Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems|IOT|2020|[link](https://arxiv.org/pdf/2110.10523.pdf)|||LiDAR spoofing、<br/>camera blinding|
-|Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks|CCS|2020|[link](https://dl.acm.org/doi/10.1145/3372297.3423359)|[link](https://www.nassiben.com/phantoms)|[link](https://github.com/ymirsky/GhostBusters)|Phantom Attack|
+|Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks|CCS|2020|[link](https://dl.acm.org/doi/10.1145/3372297.3423359)|[link](https://www.nassiben.com/phantoms)|[link](https://github.com/ymirsky/GhostBusters)|Phantom attack|
 |Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures|USENIX|2020|[link](https://www.usenix.org/conference/usenixsecurity20/presentation/sun)|[link](https://sites.google.com/view/cav-sec/adv-lidar-defense)||LiDAR spoofing|
