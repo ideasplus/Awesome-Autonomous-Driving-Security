@@ -47,15 +47,15 @@ The style is referenced from [Awesome-Binary-Similarity](https://github.com/Syst
 
 # Defense
 
-| Title| Venue| Year | Paper| Home | Code | Target |                
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||LiDAR spoofing|
-|That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||Misclassification|
-|Robust Trajectory Prediction against Adversarial Attacks|CoRL|2022|[link](https://openreview.net/forum?id=uhhA2OryTjj)|[link](https://robustav.github.io/RobustTraj/)|[link](https://github.com/kikacaty/RobustTraj)|Adversarial trajectory|
-|Using 3D Shadows to Detect Object Hiding Attacks on Autonomous Vehicle Perception|SafeThings|2022|[link](https://arxiv.org/pdf/2204.13973.pdf)|||LiDAR object hiding|
-|Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception|MAISP|2021|[link](https://arxiv.org/pdf/2106.07833.pdf)|||LiDAR spoofing|
-|Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing|ESORICS|2021|[link](https://soteris.github.io/publication/hau-2021-shadowcatcher/hau_esorics21.pdf)|[link](https://sites.google.com/view/shadow-catcher)||LiDAR spoofing|
-|“Seeing is not Always Believing”: Detecting Perception Error Attacks Against Autonomous Vehicles|TDSC|2021|[link](https://winser.ece.vt.edu/wp-content/uploads/2021/05/perception_error_attacks_TDSC_smaller_file.pdf)|||LiDAR spoofing/saturation、camera blinding、<br/>sensor malfunctions|
-|Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems|IOT|2020|[link](https://arxiv.org/pdf/2110.10523.pdf)|||LiDAR spoofing、<br/>camera blinding|
-|Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks|CCS|2020|[link](https://dl.acm.org/doi/10.1145/3372297.3423359)|[link](https://www.nassiben.com/phantoms)|[link](https://github.com/ymirsky/GhostBusters)|Phantom attack|
-|Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures|USENIX|2020|[link](https://www.usenix.org/conference/usenixsecurity20/presentation/sun)|[link](https://sites.google.com/view/cav-sec/adv-lidar-defense)||LiDAR spoofing|
+| Title| Venue| Year | Paper| Home | Code |               
+| :--: | :--: | :--: | :--: | :--: | :--: |
+|Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||
+|That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||
+|Robust Trajectory Prediction against Adversarial Attacks|CoRL|2022|[link](https://openreview.net/forum?id=uhhA2OryTjj)|[link](https://robustav.github.io/RobustTraj/)|[link](https://github.com/kikacaty/RobustTraj)|
+|Using 3D Shadows to Detect Object Hiding Attacks on Autonomous Vehicle Perception|SafeThings|2022|[link](https://arxiv.org/pdf/2204.13973.pdf)|||
+|Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception|MAISP|2021|[link](https://arxiv.org/pdf/2106.07833.pdf)||
+|Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing|ESORICS|2021|[link](https://soteris.github.io/publication/hau-2021-shadowcatcher/hau_esorics21.pdf)|[link](https://sites.google.com/view/shadow-catcher)||
+|“Seeing is not Always Believing”: Detecting Perception Error Attacks Against Autonomous Vehicles|TDSC|2021|[link](https://winser.ece.vt.edu/wp-content/uploads/2021/05/perception_error_attacks_TDSC_smaller_file.pdf)|||
+|Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems|IOT|2020|[link](https://arxiv.org/pdf/2110.10523.pdf)|||
+|Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks|CCS|2020|[link](https://dl.acm.org/doi/10.1145/3372297.3423359)|[link](https://www.nassiben.com/phantoms)|[link](https://github.com/ymirsky/GhostBusters)|
+|Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures|USENIX|2020|[link](https://www.usenix.org/conference/usenixsecurity20/presentation/sun)|[link](https://sites.google.com/view/cav-sec/adv-lidar-defense)||
