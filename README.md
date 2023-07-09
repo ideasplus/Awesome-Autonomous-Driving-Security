@@ -1,15 +1,18 @@
 # Awesome-Autonomous-Driving-Security
-An awesome &amp; curated list of autonomous driving security papers, especially including both (physically realizable) attack and defense in the context of adversarial machine learning. The style is referenced from [Awesome-Binary-Similarity](https://github.com/SystemSecurityStorm/Awesome-Binary-Similarity).
+An awesome &amp; curated list of autonomous driving security papers, especially including both (physically realizable) attack and defense in the context of adversarial machine learning.
+
+The style is referenced from [Awesome-Binary-Similarity](https://github.com/SystemSecurityStorm/Awesome-Binary-Similarity).
+
 # Attack
 
 | Title| Venue| Year | Paper| Demo | Code | Target |                
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |	
 |Discovering Adversarial Driving Maneuvers against Autonomous Vehicles|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/song)||||
 |TPatch: A Triggered Physical Adversarial Patch|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/zhu)||[link](https://github.com/forget2save/TPatch)|Perception|
+|You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)|[link](https://github.com/CPSecLab/youcantseeme)||Perception|
+|PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle|S&P|2023|[link](https://cyansec.com/files/articles/23Oakland-PLALiDAR.pdf)|[link](https://sites.google.com/view/physical-lidar-attack)||Perception|
 |Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving|SenSys|2022|[link](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)|||Perception|
 |AdvDO: Realistic Adversarial Attacks for Trajectory Prediction|ECCV|2022|[link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650036.pdf)|[link](https://robustav.github.io/RobustPred/)|[link](https://github.com/kikacaty/AdvDO)|Prediction|
-|PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle|S&P|2023|[link](https://cyansec.com/files/articles/23Oakland-PLALiDAR.pdf)|[link](https://sites.google.com/view/physical-lidar-attack)||Perception|
-|You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)|[link](https://github.com/CPSecLab/youcantseeme)||Perception|
 |Physical Hijacking Attacks against Object Trackers|CCS|2022|[link](https://raymond-muller.netlify.app/publication/physical-hijacking-attacks-against-object-trackers/physical-hijacking-attacks-against-object-trackers.pdf)|[link](https://www.youtube.com/playlist?list=PL1wf-CLdUk8KFhgFAHHfaUaku-8IL3z_h)|[link](https://github.com/purseclab/AttrackZone)|Perception|
 |Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving|MM|2022|[link](https://arxiv.org/pdf/2203.00858.pdf)|[link](https://sites.google.com/view/lane-detection-attack/lda)||Perception|
 |Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles|USENIX|2022|[link](https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton)|[link](https://sites.google.com/view/frustum-attack/)|[link](https://gitlab.oit.duke.edu/cpsl/secureperception/frustumattack)|Perception|
