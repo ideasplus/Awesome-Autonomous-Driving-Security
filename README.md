@@ -49,8 +49,8 @@ The style is referenced from [Awesome-Binary-Similarity](https://github.com/Syst
 
 | Title| Venue| Year | Paper| Home | Code | Target |                
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||LiDAR spoofing attack|
-|That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||Image misclassification|
+|Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||LiDAR spoofing|
+|That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||Misclassification|
 |Robust Trajectory Prediction against Adversarial Attacks|CoRL|2022|[link](https://openreview.net/forum?id=uhhA2OryTjj)|[link](https://robustav.github.io/RobustTraj/)|[link](https://github.com/kikacaty/RobustTraj)|Adversarial trajectory|
 |Using 3D Shadows to Detect Object Hiding Attacks on Autonomous Vehicle Perception|SafeThings|2022|[link](https://arxiv.org/pdf/2204.13973.pdf)|||LiDAR object hiding|
 |Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception|MAISP|2021|[link](https://arxiv.org/pdf/2106.07833.pdf)|||LiDAR spoofing|
