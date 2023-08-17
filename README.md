@@ -5,7 +5,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 
 | Title| Venue| Year | Paper| Demo | Code | Remark |            
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|Discovering Adversarial Driving Maneuvers against Autonomous Vehicles|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/song)|[link](https://www.youtube.com/playlist?list=PL9q0ibTXXKZ6vwPhQKohPaEfVw__TvEti)||⚔|
+|Discovering Adversarial Driving Maneuvers against Autonomous Vehicles|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/song)|[link](https://www.youtube.com/playlist?list=PL9q0ibTXXKZ6vwPhQKohPaEfVw__TvEti)|[link](https://github.com/purseclab/Acero)|⚔|
 |TPatch: A Triggered Physical Adversarial Patch|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/zhu)||[link](https://github.com/forget2save/TPatch)|⚔|
 |You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)|[link](https://github.com/CPSecLab/youcantseeme)||⚔🛡|
 |EMI-LiDAR: Uncovering Vulnerabilities of LiDAR Sensors in Autonomous Driving Setting using Electromagnetic Interference|WiSec|2023|[link](https://dl.acm.org/doi/abs/10.1145/3558482.3590192)|[link](https://cpseclab.github.io/EMILidar/)||⚔🛡|
