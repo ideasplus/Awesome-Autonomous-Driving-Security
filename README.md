@@ -5,6 +5,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 
 | Title| Venue| Year | Paper| Demo | Code | Remark |            
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures|USENIX|2024|[link](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)||[link](https://github.com/zqzqz/advcollaborativeperception)|⚔|
 |MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars|NDSS|2024|[link](https://arxiv.org/pdf/2311.16024.pdf)|||⚔|
 |TileMask: A Passive-Reflection-based Attack against mmWave Radar Object Detection in Autonomous Driving|CCS|2023|[link](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-ccs2023.pdf)|||⚔|
 |MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags|NDSS|2023|[link](https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/)|[link](https://www.youtube.com/watch?v=9d49l3Fe1gA)||⚔|
