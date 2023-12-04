@@ -5,6 +5,9 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 
 | Title| Venue| Year | Paper| Demo | Code | Remark |            
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars|NDSS|2024|[link](https://arxiv.org/pdf/2311.16024.pdf)|||⚔|
+|TileMask: A Passive-Reflection-based Attack against mmWave Radar Object Detection in Autonomous Driving|CCS|2023|[link](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-ccs2023.pdf)|||⚔|
+|MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags|NDSS|2023|[link](https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/)|[link](https://www.youtube.com/watch?v=9d49l3Fe1gA)||⚔|
 |Discovering Adversarial Driving Maneuvers against Autonomous Vehicles|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/song)|[link](https://www.youtube.com/playlist?list=PL9q0ibTXXKZ6vwPhQKohPaEfVw__TvEti)|[link](https://github.com/purseclab/Acero)|⚔|
 |TPatch: A Triggered Physical Adversarial Patch|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/zhu)||[link](https://github.com/forget2save/TPatch)|⚔|
 |You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)|[link](https://github.com/CPSecLab/youcantseeme)||⚔🛡|
@@ -41,6 +44,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 |Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking|ICLR|2020|[link](https://openreview.net/forum?id=rJl31TNYPr)||[link](https://github.com/anonymousjack/hijacking)|⚔|
 |Seeing isn't Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors|CCS|2019|[link](https://dl.acm.org/doi/10.1145/3319535.3354259)|[link](https://sites.google.com/view/ai-tricker)||⚔|
 |Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving|CCS|2019|[link](https://dl.acm.org/doi/10.1145/3319535.3339815)|[link](https://sites.google.com/view/cav-sec/adv-lidar-attack)||⚔|
+|ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal Consistency|BMVC|2023|[link](https://papers.bmvc2023.org/0486.pdf)|||🛡|
 |Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||🛡|
 |That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||🛡|
 |Robust Trajectory Prediction against Adversarial Attacks|CoRL|2022|[link](https://openreview.net/forum?id=uhhA2OryTjj)|[link](https://robustav.github.io/RobustTraj/)|[link](https://github.com/kikacaty/RobustTraj)|🛡|
