@@ -21,6 +21,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 |PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle|S&P|2023|[link](https://cyansec.com/files/articles/23Oakland-PLALiDAR.pdf)|[link](https://sites.google.com/view/physical-lidar-attack)||⚔|
 |Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving|SenSys|2022|[link](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)|||⚔|
 |Play the Imitation Game: Model Extraction Attack against Autonomous Driving Localization|ACSAC|2022|[link](https://dl.acm.org/doi/10.1145/3564625.3567977)|||⚔|
+|Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches|ECCV|2022|[link](https://www.cs.purdue.edu/homes/taog/docs/ECCV22.pdf)||[link](https://www.youtube.com/watch?v=L-SyoAsAM0Y)|⚔|
 |AdvDO: Realistic Adversarial Attacks for Trajectory Prediction|ECCV|2022|[link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650036.pdf)|[link](https://robustav.github.io/RobustPred/)|[link](https://github.com/kikacaty/AdvDO)|⚔|
 |Physical Hijacking Attacks against Object Trackers|CCS|2022|[link](https://raymond-muller.netlify.app/publication/physical-hijacking-attacks-against-object-trackers/physical-hijacking-attacks-against-object-trackers.pdf)|[link](https://www.youtube.com/playlist?list=PL1wf-CLdUk8KFhgFAHHfaUaku-8IL3z_h)|[link](https://github.com/purseclab/AttrackZone)|⚔|
 |Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving|MM|2022|[link](https://arxiv.org/pdf/2203.00858.pdf)|[link](https://sites.google.com/view/lane-detection-attack/lda)||⚔|
@@ -53,6 +54,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 |ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal Consistency|BMVC|2023|[link](https://papers.bmvc2023.org/0486.pdf)|||🛡|
 |Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan)|||🛡|
 |That Person Behaves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency|USENIX|2023|[link](https://www.usenix.org/conference/usenixsecurity23/presentation/man)|||🛡|
+|Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks|ICLR|2023|[link](https://openreview.net/forum?id=LfdEuhjR5GV)||[link](https://github.com/Bob-cheng/DepthModelHardening)|🛡|
 |Robust Trajectory Prediction against Adversarial Attacks|CoRL|2022|[link](https://openreview.net/forum?id=uhhA2OryTjj)|[link](https://robustav.github.io/RobustTraj/)|[link](https://github.com/kikacaty/RobustTraj)|🛡|
 |Using 3D Shadows to Detect Object Hiding Attacks on Autonomous Vehicle Perception|SafeThings|2022|[link](https://arxiv.org/pdf/2204.13973.pdf)|||🛡|
 |Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception|MAISP|2021|[link](https://arxiv.org/pdf/2106.07833.pdf)|||🛡|
