@@ -7,6 +7,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 |On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures|USENIX|2024|[link](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)||[link](https://github.com/zqzqz/advcollaborativeperception)|⚔|
 |MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars|NDSS|2024|[link](https://arxiv.org/pdf/2311.16024.pdf)|||⚔|
+|Exploring Adversarial Robustness of LiDAR Semantic Segmentation in Autonomous Driving|Sensors|2023|[link](https://www.mdpi.com/1424-8220/23/23/9579)|||⚔|
 |TileMask: A Passive-Reflection-based Attack against mmWave Radar Object Detection in Autonomous Driving|CCS|2023|[link](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-ccs2023.pdf)|||⚔|
 |MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags|NDSS|2023|[link](https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/)|[link](https://www.youtube.com/watch?v=9d49l3Fe1gA)||⚔|
 |Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack|ICCV|2023|[link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Does_Physical_Adversarial_Example_Really_Matter_to_Autonomous_Driving_Towards_ICCV_2023_paper.pdf)|[link](https://sites.google.com/view/cav-sec/sysadv)||⚔|
