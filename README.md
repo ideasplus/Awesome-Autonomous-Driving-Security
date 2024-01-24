@@ -5,7 +5,9 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 
 | Title| Venue| Year | Paper| Demo | Code | Remark |            
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars|NDSS|2024|[link](https://arxiv.org/pdf/2311.16024.pdf)|||⚔|
+|Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception|NDSS|2024|[link](https://arxiv.org/abs/2401.03582)|[link](https://sites.google.com/view/cav-sec/ilr-attack?authuser=0)||⚔|
+|LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies|NDSS|2024|[link](https://arxiv.org/pdf/2311.16024.pdf)|[link](https://sites.google.com/view/cav-sec/new-gen-lidar-sec?authuser=0)||⚔|
+|MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars|NDSS|2024|[link](https://arxiv.org/abs/2303.10555)|||⚔|
 |On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures|USENIX|2024|[link](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)||[link](https://github.com/zqzqz/advcollaborativeperception)|⚔🛡|
 |Exploring Adversarial Robustness of LiDAR Semantic Segmentation in Autonomous Driving|Sensors|2023|[link](https://www.mdpi.com/1424-8220/23/23/9579)|||⚔|
 |TileMask: A Passive-Reflection-based Attack against mmWave Radar Object Detection in Autonomous Driving|CCS|2023|[link](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-ccs2023.pdf)|||⚔|
