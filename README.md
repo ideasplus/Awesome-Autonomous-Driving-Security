@@ -7,6 +7,7 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 |                            Title                             |      Venue       | Year |                            Paper                             |                             Demo                             |                             Code                             | Remark |
 | :----------------------------------------------------------: | :--------------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----: |
 | FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems | NDSS | 2026 | [link](https://arxiv.org/abs/2509.20362) | [link](https://sites.google.com/view/av-ioat-sec/flytrap) | [link](https://github.com/ASGuard-UCI/FlyTrap) | ⚔ |
+| Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework | CVPR | 2025  |  |  | [link](https://github.com/y1y5/OMP-ATTACK) | ⚔ |
 | Towards Real-Time Defense Against Object-Based LiDAR Attacks in Autonomous Driving | CCS | 2025 |  |  |  | 🛡 |
 | Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving | CCS | 2025 | [link](https://kyrie-louy.github.io/files/ccs25.pdf) | [link](https://onlinemapattack.online/) |  | ⚔ |
 | ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving | CCS | 2025 | [link](https://arxiv.org/pdf/2406.05810) |  |   | ⚔ |
@@ -102,5 +103,6 @@ An awesome &amp; curated list of autonomous driving security papers, including b
 | Seeing isn't Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors |       CCS        | 2019 |    [link](https://dl.acm.org/doi/10.1145/3319535.3354259)    |       [link](https://sites.google.com/view/ai-tricker)       |                                                              |   ⚔    |
 | Illusion and dazzle: Adversarial optical channel exploits against lidars for automotive applications |       CHES       | 2017 |           [link](https://eprint.iacr.org/2017/613)           |                                                              |                                                              |   ⚔    |
 | Remote Attacks on Automated Vehicles Sensors: Experiments on Camera and LiDAR | Black Hat Europe | 2015 | [link](https://www.blackhat.com/docs/eu-15/materials/eu-15-Petit-Self-Driving-And-Connected-Cars-Fooling-Sensors-And-Tracking-Drivers-wp1.pdf) |                                                              |                                                              |   ⚔    |
+
 
 
